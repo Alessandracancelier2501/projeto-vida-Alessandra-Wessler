@@ -60,12 +60,13 @@ body {
     display: block;
 }
 
-@media screen and (win-width: 768px){
+
+@media screen and (min-width: 768PX){
     .botoes{
         display: flex;
     }
     .botao:first-child{
-border-radius: 40px 0 0 0;
+        border-radius: 40px 0 0 0;
     }
     .botao:last-child{
         border-radius: 0 40px 0 0;
