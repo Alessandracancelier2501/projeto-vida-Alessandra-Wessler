@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap&#39;);
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
 --cor-de-fundo: #1E1E1E;
@@ -90,7 +90,7 @@ text-transform: uppercase;
 }
 
 .contador{
-fonte-size: 20px;
+font-size: 20px;
 text-align: center;
 }
 
